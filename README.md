@@ -28,8 +28,7 @@ The dataset consists of:
 - 38 labeled classes (healthy + diseased leaves)
 - Separate folders for training, validation, and testing
 
-> Dataset not included in this repository due to large size.  
-> Download it directly from Kaggle and extract it to `/tmp/cnn_project/` before running the notebook.
+> Download dataset from Kaggle and extract it to `/tmp/cnn_project/` before running the notebook.
 
 ##  Model Architecture
 The CNN model consists of:
