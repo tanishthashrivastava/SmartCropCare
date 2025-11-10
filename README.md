@@ -1,7 +1,7 @@
 # SmartCropCare
 # SmartCropCare: Image-based Plant Disease Classification with CNNs
 
-**SmartCropCare** is a deep learning project that leverages Convolutional Neural Networks (CNNs) to automatically detect and classify plant leaf diseases from images. It was developed as part of an academic research project by students at the **School of Computer Applications, Lovely Professional University, Phagwara, Punjab, India**.
+**SmartCropCare** is a deep learning project that leverages Convolutional Neural Networks (CNNs) to automatically detect and classify plant leaf diseases from images.**
 
 ## Overview
 The goal of this project is to assist in early and accurate identification of plant diseases to help farmers and agricultural experts make timely decisions. Using the *New Plant Diseases Dataset (Kaggle)*, which contains over **87,000 RGB images** of healthy and diseased plant leaves across **38 classes**, SmartCropCare builds and evaluates a CNN model capable of distinguishing among multiple crop diseases with high accuracy.
